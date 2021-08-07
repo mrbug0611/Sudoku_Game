@@ -2,7 +2,7 @@
 from pygame import *
 import sys
 
-# Setting up window, icon, and caption,
+# Setting up window, icon, and captions
 init()
 screen_width = 800
 screen_height = 600
